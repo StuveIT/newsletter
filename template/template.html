@@ -9,8 +9,8 @@
 <body>
   <header>
     <div>
-      <h1>StuVe Info</h1>
-      <h4>$semester$ &ndash; Ausgabe $volume$</h4>
+      <h1>StuVe-Newsletter</h1>
+      <h4>August 2025</h4>
     </div>
     <img src="https://engagement.stuve-uni-kn.de/filehost/images/StuVe_Logo.png" alt="Studierenden Vertretung der Universität Konstanz" />
   </header>
@@ -27,10 +27,10 @@
     <div class="content has-text-centered">
       <p>Mit Liebe gemacht von der <a href="https://www.stuve.uni-konstanz.de/kontakt/stuve-it/">StuVe IT</a></p>
       <p><a href="https://www.stuve.uni-konstanz.de/kontakt/">Kontakt</a></p>
-      <a class="navbar-item" target="_blank" href="https://www.instagram.com/fs.inf/">Instagram</a>
-      <a class="navbar-item" target="_blank" href="mailto:stuve@uni-konstanz.de">Email</a>
+      <a class="navbar-item" target="_blank" href="https://www.instagram.com/stuve.konstanz/">Instagram</a>
+      <a class="navbar-item" target="_blank" href="mailto:stuve@uni-konstanz.de">E-Mail</a>
       <a class="navbar-item" target="_blank" href="tel:+497531882517">Telefon</a>
-      <p><a href="/impressum">Impressum</a> <a href="/datenschutz">Datenschutz</a></p>
+      <p><a href="https://www.stuve.uni-konstanz.de/kontakt/">Impressum</a> <a href="https://www.stuve.uni-konstanz.de/kontakt/datenschutzinformation/">Datenschutz</a></p>
     </div>
   </footer>
   <style>
@@ -61,7 +61,7 @@
       margin: 0;
       padding: 0;
       min-height: 100vh;
-      font-size: 1rem;
+      font-size: 1.4rem;
       color: var(--color-text);
     }
 
@@ -164,6 +164,12 @@
         font-weight: var(--bold-weight);
     }
     
+    i {
+        font-size: 2rem;
+        color: var(--text);
+        margin: 0 0.5rem;
+    }
+    
     img {
         max-width: 100%;
         height: auto;
@@ -255,8 +261,8 @@
     }
 
     .homefeed {
-      flex: 4;
-      min-width: 28rem;
+      flex: 1; <!--Größenverhältnis-->
+      min-width: 25rem;
 
       display: flex;
       flex-direction: column;
@@ -265,12 +271,13 @@
     }
 
     .sidefeed {
-      flex: 3;
+      flex: 1;
+    <!--  max-width: 35rem;-->
       display: flex;
       flex-direction: column;
 
       /* gap: 1rem; */
-      min-width: 21rem;
+      min-width: 20rem;
     }
 
     .card {
@@ -295,7 +302,7 @@
 
     @media screen and (min-width: 800px) {
       body {
-        font-size: 1.6rem;
+        font-size: 1.3rem;
       }
     }
   </style>
