@@ -13,4 +13,7 @@
 homefeed=$(for file in ./content/main/*.md; do pandoc --standalone --template "template/home-template.html" "$file"; done)
 sidefeed=$(for file in ./content/events/*.md; do pandoc --standalone --template "template/side-template.html" "$file"; done)
 
-echo $homefeed | pandoc --standalone -V side-feed:"$sidefeed" --template "template/template.html" | node utils/juice.js
+homefeed_en=$(for file in ./content/en/main/*.md; do pandoc --standalone --template "template/home-template.html" "$file"; done)
+sidefeed_en=$(for file in ./content/en/events/*.md; do pandoc --standalone --template "template/side-template.html" "$file"; done)
+
+echo $homefeed | pandoc --standalone -V side-feed:"$sidefeed" -V home-feed-en:"$homefeed_en" -V side-feed-en:"$sidefeed_en" --template "template/template.html" | node utils/juice.js

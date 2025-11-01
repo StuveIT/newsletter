@@ -1,4 +1,4 @@
 ---
 title: Event 03
 ---
-Event with all closer information missing
+Veranstaltung ohne jegliche näheren Informationen.
