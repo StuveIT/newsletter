@@ -1,7 +1,9 @@
-<div class="event">
-    <h3>$if(date)$ $date$: $endif$ $title$ </h3>
+<tr class="event">
+  <td>
+    <h3 style="margin: 0">$if(date)$ $date$: $endif$ $title$ </h3>
     $if(who)$<p class="event-info"><b>Wer:</b> $who$</p>$endif$
     $if(where)$<p class="event-info"><b>Wo:</b> $where$</p>$endif$
     $if(time)$<p class="event-info"><b>Wann:</b> $time$</p>$endif$
     $body$
-</div>
+  </td>
+</tr>
