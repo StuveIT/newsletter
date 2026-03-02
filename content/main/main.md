@@ -1,5 +1,5 @@
 ---
-title: "Liebe Kommoliton:innen,"
+title: "Liebe Kommiliton:innen,"
 ---
 
 Wir hoffen, ihr genießt die vorlesungsfreie Zeit und das tolle Frühlingswetter! Auch wenn es im März etwas ruhiger ist, gibt es dennoch ein paar Veranstaltungen, die sich lohnen – eine Übersicht findet ihr hier. Wir freuen uns schon sehr auf das kommende Sommersemester und darauf, euch bald wiederzusehen!

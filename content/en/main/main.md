@@ -5,7 +5,7 @@ We hope you’re enjoying the lecture-free period and the beautiful spring weath
 
 ## News
 
-- From March 18 to March 21, the SOS International Summit (Students Organizing for Sustainability) will take place in Konstanz. The summit is organized by the Green Office. The core theme of the summit, 'Student voices for a safe and just transition' aims to equip and empower students and staff to co-create, lead, and influence at their higher education institutions and beyond. 
+- **SOS-International Summit** From March 18 to March 21, the SOS International Summit (Students Organizing for Sustainability) will take place in Konstanz. The summit is organized by the Green Office. The core theme of the summit, 'Student voices for a safe and just transition' aims to equip and empower students and staff to co-create, lead, and influence at their higher education institutions and beyond. 
 
   You can find more information on the [SOS-International Summit](https://happeningnext.com/event/sos-international-summit-2026-eid1ef0kqesieba) website and on Instagram ([greenofficekn](https://www.instagram.com/greenofficekn/)).
 
@@ -17,4 +17,4 @@ Best wishes,
 Your Student Representation  
 ([stuve@uni-konstanz.de](mailto:stuve@uni-konstanz.de))
 
-P.S. Would you like your student initiative’s events to be featured in the newsletter? Just send us an email by the last day of the previous month.
+P.S. Would you like your student initiative’s events to be featured in the newsletter? Just send us an email **by the last day of the previous month**.
