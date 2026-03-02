@@ -16,4 +16,6 @@ sidefeed=$(for file in ./content/events/*.md; do pandoc --standalone --template 
 homefeed_en=$(for file in ./content/en/main/*.md; do pandoc --standalone --template "template/home-template.html" "$file"; done)
 sidefeed_en=$(for file in ./content/en/events/*.md; do pandoc --standalone --template "template/side-template.html" "$file"; done)
 
-echo $homefeed | pandoc --standalone -V side-feed:"$sidefeed" -V home-feed-en:"$homefeed_en" -V side-feed-en:"$sidefeed_en" --template "template/template.html" | node utils/juice.js
+issue=$(LC_TIME=de_DE.UTF-8 date +"%B %Y")
+
+echo $homefeed | pandoc --standalone -V side-feed:"$sidefeed" -V home-feed-en:"$homefeed_en" -V side-feed-en:"$sidefeed_en" -V issue:"$issue" --template "template/template.html" | node utils/juice.js
