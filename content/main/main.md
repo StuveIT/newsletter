@@ -2,22 +2,47 @@
 title: "Liebe Studierende,"
 ---
 
-wir hoffen, ihr genießt die vorlesungsfreie Zeit und das tolle Frühlingswetter! Auch wenn es im März etwas ruhiger ist, gibt es dennoch ein paar Veranstaltungen, die sich lohnen – eine Übersicht findet ihr hier. Wir freuen uns schon sehr auf das kommende Sommersemester und darauf, euch dann wiederzusehen!
+das Sommersemester hat begonnen – und wir freuen uns riesig auf die kommenden Monate mit euch!
+
+Wir starten mit voller Energie und haben uns einiges vorgenommen, um dieses Semester spannend, abwechslungsreich und unvergesslich zu gestalten. Freut euch auf neue Ideen, inspirierende Begegnungen und viele Gelegenheiten, gemeinsam etwas zu erleben.
+
+Ein paar richtig coole Veranstaltungen stehen bereits in den Startlöchern – einen ersten Überblick findet ihr hier im Newsletter. Und das ist erst der Anfang: Es kommt noch einiges auf euch zu!
+
+Bleibt gespannt, seid dabei und macht dieses Semester gemeinsam mit uns zu etwas Besonderem. Wir freuen uns auf euch!
 
 ## Aktuelles
 
-- **Studierendenwerke auf die Agenda der Landtagswahl**  
-  Am 8. März sind Landtagswahlen in Baden-Württemberg, der Wahlkampf ist in vollem Gange. Wenig kommen dabei die Themen Bildung und Wissenschaft vor. Dabei gibt es hier viel zu tun. Die Studierendenwerke haben für ihren Bereich [Wahlprüfsteine aufgestellt und die Antworten der Parteien aufgelistet](https://wahlpruefsteine-stw-bw.de/). Wenn es zu wenig Wohnraum für Studierende gibt, die Mensa-Preise steigen oder die Studierendenwerke an zu viel Bürokratie leiden, liegt das an Entscheidungen des Landes, mit deiner Stimme kannst du vielleicht Einfluss darauf nehmen.
-- **SOS-International Summit**  
-  Vom 18. bis 21. März findet in Konstanz der SOS-International Summit (Students organizing for Sustainability) statt, veranstaltet vom Green Office. Das Kernthema des Summits 'Student voices for a safe and just transition' zielt darauf ab, Studierende und Mitarbeitende zu befähigen und zu stärken, an ihren Hochschulen und darüber hinaus gemeinsam zu gestalten, Verantwortung zu übernehmen und Einfluss zu nehmen.
-
-  Weitere Informationen findet ihr auf der [Website des SOS-International Summit](https://happeningnext.com/event/sos-international-summit-2026-eid1ef0kqesieba) und bei auf Instagram ([@greenofficekn](https://www.instagram.com/greenofficekn/)).
+- **Biergarten öffnet wieder**  
+  Pünktlich zum Vorlesungsbeginn am 07. April beenden wir die Winterpause! Schnappt euch eure Kommilitonen und genießt die ersten Sonnenstrahlen des Semesters dort, wo die Campus-Kultur zu Hause ist.  
+  Egal ob das wohlverdiente Kaltgetränk nach der Vorlesung oder die „besondere“ Gruppenarbeit unter freiem Himmel – wir versorgen euch mit alkoholischen und alkoholfreien Getränken zu studentenfreundlichen Preisen.  
+  Wann? Montag - Freitag von 13 bis 22 Uhr (bei gutem Wetter)  
+  Wo? Biergarten auf der L-Terrasse  
+  Tagesaktuelle Infos gibt es bei Instagram [@unibiergarten](https://www.instagram.com/unibiergarten/).  
+  Wir freuen uns über euren Besuch!
+- **Themenmonat „Health“**   
+  Das Greenoffice veranstaltet im April den Themenmonat „Health“. Zu diesem Thema finden diesen Monat einige Veranstaltungen statt, die sich lohnen. Infos zu den Veranstaltungen findet ihr in diesem Newsletter.
+- **Beteillige dich bei der Public Sustainabiliy Week**  
+  Dieses Jahr findet wieder vom 09.11. bis zum 14.11. eine Public Sustainability Week (PSW) statt, organisiert vom Green Office. Ziel ist es, das Thema Nachhaltigkeit in jedem Lebensbereich in unserer Stadt Konstanz in den Fokus zu rücken.   
+  Von Studierenden organisiert, werden noch Mitstreiter\*innen gesucht, die Lust haben, ihren Handabdruck zu vergrößern und kleinere oder größere organisatorische Aufgaben zu übernehmen (Media Team, Plakate aufhängen, Organisation von Events). Bei Interesse tretet gerne der [Signal-Gruppe](https://signal.group/#CjQKICvR9N4G-MmG3ATGt5rPhE4TiR1haZWWnnbLwQQ1SxL6EhC9MfZ_SSjbt1ix631v36HQ) bei oder meldet euch unter [__info@psw-konstanz.de__](mailto:info@psw-konstanz.de).
+  <div class="flex-grid">
+  <a href="https://signal.group/#CjQKICvR9N4G-MmG3ATGt5rPhE4TiR1haZWWnnbLwQQ1SxL6EhC9MfZ_SSjbt1ix631v36HQ">Signal-Gruppe</a>
+  </div>
+- **Uniorchester sucht Mitspielende**  
+  Das Uniorchester sucht für das kommende Semester neue Musiker\*innen, die Lust auf das musizieren im Orchester haben und folgende Instrumente spielen:  
+  • Horn  
+  • Posaune  
+  • Cello  
+  • Kontrabass  
+  Die Vorspiele finden am 16.04. statt. Melde dich bei Interesse bis zum 09.04. bei [uniorchester@uni-konstanz.de](mailto:uniorchester@uni-konstanz.de). Die Proben finden Donnerstag Abends statt, mehr Informationen findet du [hier](https://www.uni-konstanz.de/hsg/uniorchester/).
+  <div class="flex-grid">
+  <a href="mailto:uniorchester@uni-konstanz.de">Mail bei Interesse</a>
+  </div>
 
 ## Wer sind wir?
 
-Wir sind die Studierendenvertretung an der Uni Konstanz (StuVe) und vertreten die Interessen von uns Studierenden und organisieren und fördern Projekte. Wir sind für dich da bei deinen Problemen und Anliegen oder auch, wenn du Lust hast, dich zu engagieren - schreib uns gerne!
+Wir sind die Studierendenvertretung an der Uni Konstanz (StuVe), vertreten die Interessen von uns Studierenden und organisieren und fördern Projekte. Wir sind für dich da bei deinen Problemen und Anliegen oder auch, wenn du Lust hast, dich zu engagieren - schreib uns gerne!
 
 Viele Grüße  
 Deine Studierendenvertretung ([stuve@uni-konstanz.de](mailto:stuve@uni-konstanz.de))
 
-PS: Die Termine deiner Hochschulgruppe sollen im Newsletter erscheinen? Dann schicke uns einfach **bis zum letzten Tag des Vormonats** eine E-Mail.
+PS: Die Termine deiner Hochschulgruppe sollen im Newsletter erscheinen? Dann schicke einfach bis zum letzten Tag des Vormonats eine E-Mail an [stuve.presse@uni-konstanz.de](mailto:stuve.presse@uni-konstanz.de).
