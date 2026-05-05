@@ -1,39 +1,42 @@
 ---
-title: "Dear students,"
+title: "Dear fellow students,"
 ---
 
-the summer semester has started – and we are really looking forward to the coming months with you! We are starting full of energy and have set ourselves a lot of goals to make this semester exciting, varied and unforgettable. We are looking forward to new ideas, inspiring encounters and many opportunities to experience a good semester together. A few really cool events are already in the starting blocks – you can find a first overview here in the newsletter. And that's just the beginning: There's still a lot to come! Stay tuned, be part of it and make this semester something special together with us. We look forward to seeing you!
+## News
 
-### News
+- **Student General Assembly on May 7 with free pizza!**  
+  Join us for free pizza and discuss topics relevant to your university! Our Student General Assembly will take place on May 7 at 5:00 PM in Room R611. Our main topics are common areas outside the library and cafeteria, and teaching with/about AI. We look forward to hearing your thoughts :) <div class="flex-grid"><a href="https://www.instagram.com/p/DXuZMgQCIFi/?igsh=MWprNzMyczhkMWZ2Yw==">More Infos</a></div>
+- **Do you need someone to talk to, or would you like to be that person for others? Nightline!**  
+  Nightline Konstanz is a free and anonymous listening service run by students for students. We’re here for you whenever you need someone to talk to—whether you just want to vent or feel like everything is falling apart. Feel free to call us: 07531 206 886 📞Tuesdays, Wednesdays, Fridays, Saturdays, and Sundays from 8 p.m. to midnight (during the university’s lecture periods). [www.nightline-konstanz.de](http://www.nightline-konstanz.de) @NightlineKonstanz
+- **Water Sports Area Reopens**  
+  The University of Konstanz’s water sports area reopens on May 1! Check out the university courses and enjoy studying by the lake to the fullest! more than just sports | University Sports Konstanz | AAIA Divisions | University Administration | University of Konstanz
+- **Theme Month: “Biodiversity”**  
+  The Greenoffice is hosting “Biodiversity” as its theme month in May. Several worthwhile events on this topic are taking place this month. You can find information about the events in this newsletter.
+- **Student Legal Advice LAW & LAKE (free)**  
+  As a student legal advice service, LAW & LAKE offers an accessible way for everyone to get free legal advice. So if you have a legal problem, feel free to describe your situation using the contact form on our [website](https://law-and-lake.com/), and we’ll help you as best we can.
 
-- **Beer garden**   
-  Just in time for the start of lectures on April 7th, we are ending the winter break! Grab your fellow students and enjoy the first rays of sunshine of the semester where campus culture is at home. Whether it's a well-deserved cold drink after the lecture or the "special" group work in the open air – we provide you with alcoholic and non-alcoholic beverages at student-friendly prices.  
-  When? Monday - Friday from 1 p.m. to 10 p.m. (good weather)  
-  Where? Beer garden on the L-terrace  
-  Daily updated information can be found on Instagram [@unibiergarten](https://www.instagram.com/unibiergarten/). We look forward to your visit!
-- **Theme Month "Health"**   
-  The Greenoffice organizes the theme month "Health" in April. There are a number of events on this topic this month that are really worth it. You can find information about the events in this newsletter.
-- **Get involved in Public Sustainability Week**  
-  This year, Public Sustainability Week (PSW) will take place again from 09.11. to 14.11. The aim is to focus on the topic of sustainability in every area of life in our city of Konstanz. Organized by students, we are still looking for comrades-in-arms who would like to enlarge their handprint and take on smaller or larger organizational tasks (media team, hanging up posters, organizing events). If you are interested, please join the [Signal group](https://signal.group/#CjQKICvR9N4G-MmG3ATGt5rPhE4TiR1haZWWnnbLwQQ1SxL6EhC9MfZ_SSjbt1ix631v36HQ) or contact us at [info@psw-konstanz.de](mailto:info@psw-konstanz.de).
-  <div class="flex-grid">
-  <a href="https://signal.group/#CjQKICvR9N4G-MmG3ATGt5rPhE4TiR1haZWWnnbLwQQ1SxL6EhC9MfZ_SSjbt1ix631v36HQ">Signal Group</a>
-  </div>
-- **University Orchestra seeks New Members**  
-  The University Orchestra is looking for new musicians for the upcoming semester who are interested in playing in an orchestra and play the following instruments:  
-  • French horn  
-  • Trombone  
-  • Cello  
-  • Double bass  
-  Auditions will take place on April 16. If you’re interested, please contact [uniorchester@uni-konstanz.de](mailto:uniorchester@uni-konstanz.de) by April 9. Rehearsals are held on Thursday evenings; you can find more information [here](https://www.uni-konstanz.de/hsg/uniorchester/).
-  <div class="flex-grid">
-  <a href="mailto:uniorchester@uni-konstanz.de">Mail if interested</a>
-  </div>
+### Campus Festival Konstanz goes 2026 – and you can be part of the team!
 
-  ### Who are we?
+Campus Festival Konstanz opens its doors for the eleventh time on May 29 and 30. Our guests will dive into their beloved sea of joy, fun and creativity. Each of the festival’s four stages and their corresponding areas are once again set to shine in their uniqueness and passion for detail.
 
-  We are the Student Representation at the University of Konstanz (StuVe), represent the interests of us students and organise and promote projects. We are there for you with your problems and concerns or if you feel like getting involved - feel free to write to us!
+All of this fascination has always and only been created through YOUR student contribution constructing, deconstructing and operating on our festival site. This way, we’d like to ask you once again to apply for your individual support in one or multiple shifts at Bodenseestadion Konstanz:
 
-  Best regards,  
-  Your Student Representation ([stuve@uni-konstanz.de](mailto:stuve@uni-konstanz.de))
+REGISTRATION: <https://konstanz-crew.staff.cloud/recruiting>
 
-  PS: The dates of your university group should appear in the newsletter? Then simply send  an e-mail to [stuve.presse@uni-konstanz.de](mailto:stuve.presse@uni-konstanz.de) by the last day of the previous month.
+Further details concerning the application process and different tasks are all explained throughout the online-form you are welcome to fill in. We compensate your contribution by 14,00 € / hour at day time and by 15,00 € / hour after 8:00 in the evening.
+
+The first favor you can do us is to spread the word! And then we’d appreciate any of your and your friends’ contributions on site collecting impressions from behind the scenes that you will never forget.
+
+For further information please visit [campusfestival-kn.de](http://campusfestival-kn.de).
+
+All the best
+Team Campus Festival Konstanz
+
+## **Who are we?**
+
+We are the Student Council at the University of Konstanz (StuVe) and represent the interests of students while organizing and promoting projects. We’re here for you if you have any problems or concerns, or even if you’d like to get involved—feel free to reach out!
+
+Best regards  
+Your Student Council ([stuve@uni-konstanz.de](mailto:stuve@uni-konstanz.de))
+
+P.S.: Would you like your student group’s events to be featured in the newsletter? Just send an email to [stuve.presse@uni-konstanz.de](mailto:stuve.presse@uni-konstanz.de) by the last day of the previous month.

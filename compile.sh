@@ -14,7 +14,7 @@ homefeed=$(for file in ./content/main/*.md; do pandoc --standalone --template "t
 sidefeed=$(for file in ./content/events/*.md; do pandoc --standalone --template "template/side-template.html" "$file"; done)
 
 homefeed_en=$(for file in ./content/en/main/*.md; do pandoc --standalone --template "template/home-template.html" "$file"; done)
-sidefeed_en=$(for file in ./content/en/events/*.md; do pandoc --standalone --template "template/side-template.html" "$file"; done)
+sidefeed_en=$(for file in ./content/en/events/*.md; do pandoc --standalone --template "template/side-template-en.html" "$file"; done)
 
 issue=$(LC_TIME=de_DE.UTF-8 date +"%B %Y")
 
