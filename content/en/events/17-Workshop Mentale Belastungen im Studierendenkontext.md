@@ -6,4 +6,4 @@ where: Jakobshaus (Ralf-Dahrendorf-Straße 11)
 time: "17:00"
 ---
 
-Our annual cabin weekend is a great opportunity to get to know the Catholic University Community or simply to spend an exciting yet relaxing weekend with wonderful people! Want to join us? Sign up now! Registration is open until June 8, 2026. The participation fee is 65 euros. Register at <https://khg-konstanz.de/unsere-veranstaltungen/>.
+Do you feel stressed, under pressure in your studies, or do you sometimes doubt yourself? It doesn’t have to stay that way. Join others to figure out what’s really weighing on you — and discover new ways to navigate your studies with more calm and clarity. Through practical exercises and group discussions, we’ll reflect on our behavior and learn techniques that help clear our minds.
