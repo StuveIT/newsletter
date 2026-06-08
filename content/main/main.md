@@ -25,13 +25,13 @@ viel ist gerade los &mdash; in der Uni uns auch bei uns in der Studierendenvertr
   Schaut euch auch die **Interviews mit allen Listen** auf unserem [Instagram-Account](https://www.instagram.com/stuve.konstanz/) an – und dann ab zur Wahl! 💚
 - **Vollversammlung zum Campus Festival**
 
-  📅 **Mi., 17. Juni, 17 Uhr** 📍 Raum A700
+  📅 **Mi., 17. Juni, 17 Uhr** 📍 Raum A600 (Audimax)
 
   Kommt vorbei, redet mit !
 
   Einfach **Studierendenausweis** mitbringen, mehr braucht ihr nicht!
 
-  Auf der Tagesordnung steht das **Campusfestival**: Soll es weiterhin unterstützt werden – und was ist euer Feedback dazu?  
+  Auf der Tagesordnung steht das **Campus Festival**: Soll es weiterhin unterstützt werden – und was ist euer Feedback dazu?  
   <div class="flex-grid">
     <a href="https://www.stuve-uni-kn.de/2026/06/08/einladung-zur-vollversammlung-zum-campus-festival-am-17-06/">zur Einladung</a>
   </div>

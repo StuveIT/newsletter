@@ -8,7 +8,7 @@ There's a lot going on right now &mdash; both at the university and here in the 
 
 - **2026 University Elections – Vote Now!**
 
-  🗳️ June 8 at 12:00 PM through June 11 at 12:00 PM. Just log in to ZEuS and vote!
+  **🗳️ June 8 at 12:00 PM through June 11 at 12:00 PM**. Just log in to **ZEuS** and vote!
 
   This year, there are four slates on the ballot:
   - Juso HSG – The International
@@ -24,22 +24,22 @@ There's a lot going on right now &mdash; both at the university and here in the 
   Check out the **interviews with all lists** on our [Instagram account](https://www.instagram.com/stuve.konstanz/) — and then head over to vote! 💚
 - **General Assembly #2 in the Summer Semester**
 
-  📅 June 17, 5:00 PM 📍 Room A700
+  **📅 June 17, 5:00 PM** 📍 Room A600 (Audimax)
 
   Come by and join the conversation!
 
-  Just bring your student ID — that’s all you need!
+  Just bring your **student ID** — that’s all you need!
 
-  On the agenda is, among other things, the Campus Festival: Should we continue to support it—and what’s your feedback on it?
+  On the agenda is, among other things, the **Campus Festival**: Should we continue to support it—and what’s your feedback on it?
   <div class="flex-grid">
     <a href="https://www.stuve-uni-kn.de/2026/06/08/einladung-zur-vollversammlung-zum-campus-festival-am-17-06/">Official Invitation</a>
   </div>
 
 - **A-Courtyard Party 🎉**
 
-  🎧 My Prof Is a DJ 📅 June 26, 6:30–9:30 PM 📍 A-Courtyard
+  **🎧 My Prof Is a DJ 📅 June 26, 6:30–9:30 PM** 📍 A-Courtyard
 
-  Your professors are spinning records—and there’s free beer again 🍺
+  Your professors are spinning records — and there’s **free beer** again 🍺
 
   Come by and celebrate the start of summer with us!
 
