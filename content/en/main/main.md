@@ -21,7 +21,7 @@ There's a lot going on right now &mdash; both at the university and here in the 
     <a href="https://www.stuve-uni-kn.de/2026/06/08/stuve-wahlzeitung-2026/">Election Newspaper (German version)</a>
   </div>
 
-  Check out the interviews with all the slates on our Instagram account—and then head over to vote! 💚
+  Check out the **interviews with all lists** on our [Instagram account](https://www.instagram.com/stuve.konstanz/) — and then head over to vote! 💚
 - **General Assembly #2 in the Summer Semester**
 
   📅 June 17, 5:00 PM 📍 Room A700
