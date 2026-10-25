@@ -295,17 +295,36 @@
       margin: 0;
     }
 
+    .card:not(:first-child) {
+      margin-top: 8px;
+    }
+
     .event h3 {
       border-top: solid 2px var(--color-primary);
     }
 
-    p.event-info {
-      margin: 0;
+    table.event-info th {
+      text-align: left;
+      vertical-align: top;
     }
-    
+
     .en {
       background-color: var(--color-primary);
     }
+
+    .ukn-table {
+      margin: auto;
+    }
+
+    .ukn-table.vertical tr > th:first-child {
+      border-right: solid 2px var(--color-primary);
+    }
+
+    .ukn-table.vertical tr:first-child > td {
+      font-weight: bold;
+    }
+
+
   </style>
 </body>
 
