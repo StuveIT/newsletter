@@ -5,7 +5,7 @@ who: Nightline Konstanz
 where: An der Uni oder HTWG, genaue Räume bei Anmeldung
 ---
 
-Wir sind die Nightline Konstanz, dein offenes Ohr für alles, was dir auf dem Herzen liegt. Du kannst uns Di, Mi, Fr, Sa und So immer zwischen 20:00 Uhr und 0:00 Uhr anrufen, wenn du mal jemanden zum Reden brauchst. Unser Angebot ist komplett kostenlos, anonym und natürlich vertraulich.
+Wir sind die Nightline Konstanz, dein offenes Ohr für alles, was dir auf dem Herzen liegt. **Du kannst uns Di, Mi, Fr, Sa und So immer zwischen 20:00 Uhr und 0:00 Uhr anrufen, wenn du mal jemanden zum Reden brauchst.** Unser Angebot ist **komplett kostenlos**, anonym und natürlich vertraulich.
 
 Wenn du gerne anderen Menschen zuhörst und für sie da bist, Lust hast, Teil einer Hochschulgruppe voller lieber Menschen zu werden, und dich dabei ehrenamtlich engagieren möchtest, dann freuen wir uns, dich dabeizuhaben. Wir suchen dieses Semester neue Mitglieder!
 Wenn du Interesse hast, komm zu einem unserer Infoabende:
@@ -26,4 +26,3 @@ Du kannst dich [unter diesem Link](https://docs.google.com/forms/d/e/1FAIpQLSde0
   <a href="https://nightline-konstanz.de/mitmachen.html">Infos</a>
 </div>
 
-![Nightline](./content/pictures/Nightline.png)

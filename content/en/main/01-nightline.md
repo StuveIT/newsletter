@@ -5,7 +5,7 @@ who: Nightline Konstanz
 where: At the university or HTWG; exact locations provided upon registration
 ---
 
-We are Nightline Konstanz, here to listen to whatever's on your mind. You can call us Tuesdays, Wednesdays, Fridays, Saturdays, and Sundays between 8:00 PM and midnight whenever you need someone to talk to. Our service is completely free, anonymous, and, of course, confidential.
+We are Nightline Konstanz, here to listen to whatever's on your mind. **You can call us Tuesdays, Wednesdays, Fridays, Saturdays, and Sundays between 8:00 PM and midnight whenever you need someone to talk to.** Our service is **completely free**, anonymous, and, of course, confidential.
 
 If you enjoy listening to others and being there for them, would like to become part of a college group full of wonderful people, and want to volunteer, then we'd love to have you join us. We're looking for new members this semester!
 If you're interested, come to one of our info sessions:
@@ -26,4 +26,3 @@ You can register for one of the info sessions [at this link](https://docs.google
   <a href="https://nightline-konstanz.de/mitmachen.html">Information</a>
 </div>
 
-![Nightline](/content/pictures/Nightline.png)

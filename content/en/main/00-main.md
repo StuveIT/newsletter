@@ -11,7 +11,7 @@ We hope you've had a good start to the new semester.
 
  That's why we're looking for creative minds and hands among you. All students, artists, collectives, and initiatives are welcome to participate. Up to €100 in material costs will be reimbursed.We've extended the submission deadline. This is your chance to leave your mark — and showcase your art — on one of the walls!
 
-  ❗️Submission deadline: November 30, 2026
+  ❗️**Submission deadline: November 30, 2026**
 
   Are you interested in joining? You can find more information [on our website](https://cloud.uni-konstanz.de/index.php/apps/files/files/www.stuve-uni-kn.de/ausschreibung-bunte-arche/).
   <div class="flex-grid slot">
@@ -19,7 +19,7 @@ We hope you've had a good start to the new semester.
   </div>
 
 - **☕ StuVe Café**  
-  The StuVe Café takes place every Thursday afternoon in H301a.
+  The StuVe Café takes place **every Thursday afternoon in H301a**.
 
   Come join us at the StuVe office in H301a between 12:30 p.m. and 2:30 p.m. for free coffee, tea—with oat milk and ice cubes upon request—and cookies (including vegan options)!
 
