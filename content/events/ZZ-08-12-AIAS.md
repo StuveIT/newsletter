@@ -33,7 +33,8 @@ und stehen bei Fragen vor Ort bereit! – gemeinsam können wir Leben retten!
 
 Eure
 AIAS Hochschulgruppe  
-![HSG](./content/pictures/AIAS.png)
 
 Für mehr Infos, schau auf inserem Insta vorbei:  
-![Insta](./content/pictures/AIAS_insta.png)
+<div class="flex-grid slot">
+  <a href="https://www.instagram.com/aiaskonstanz/">Insta</a>
+</div>
