@@ -13,4 +13,4 @@ You can find an overview of all events [on our website](https://www.psw-konstanz
   <a href="https://www.psw-konstanz.de/">Public Sustainability Week</a>
 </div>
 
-![alt text](/content/pictures/PSW.png)
+![alt text](./content/pictures/PSW.png)

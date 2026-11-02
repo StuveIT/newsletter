@@ -14,11 +14,16 @@ Wenn du Interesse hast, komm zu einem unserer Infoabende:
     Mi, 04.11.2026 um 18:30 Uhr an der HTWG
     Di, 10.11.2026 um 18:00 an der Uni
 
-Du kannst dich [unter diesem Link](https://docs.google.com/forms/d/e/1FAIpQLSde0kzVSRFiPJNEqgrsnKssrP_FhsqPvvN6TLJxuqPUH_4ggg/viewform) für einen der Infoabende anmelden, dann schreiben wir dir den genauen Raum. [Auf unserer Website](https://nightline-konstanz.de/mitmachen.html) findest du noch ein paar mehr Infos zur Mitarbeit in der Nightline. Wir freuen uns, dich vielleicht bald bei einem Infoabend zu sehen.
+Du kannst dich [unter diesem Link](https://docs.google.com/forms/d/e/1FAIpQLSde0kzVSRFiPJNEqgrsnKssrP_FhsqPvvN6TLJxuqPUH_4ggg/viewform) für einen der Infoabende anmelden, dann schreiben wir dir den genauen Raum. 
 
 <div class="flex-grid slot">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSde0kzVSRFiPJNEqgrsnKssrP_FhsqPvvN6TLJxuqPUH_4ggg/viewform">Anmeldung</a>
+</div>
+
+[Auf unserer Website](https://nightline-konstanz.de/mitmachen.html) findest du noch ein paar mehr Infos zur Mitarbeit in der Nightline. Wir freuen uns, dich vielleicht bald bei einem Infoabend zu sehen.
+
+<div class="flex-grid slot">
   <a href="https://nightline-konstanz.de/mitmachen.html">Infos</a>
 </div>
 
-![Nightline](/content/pictures/Nightline.png)
+![Nightline](./content/pictures/Nightline.png)

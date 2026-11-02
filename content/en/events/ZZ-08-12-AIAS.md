@@ -33,7 +33,7 @@ and will be on hand to answer any questions! – Together, we can save lives!
 
 Yours,
 AIAS University Group
-![HSG](/content/pictures/AIAS.png)
+![HSG](./content/pictures/AIAS.png)
 
 For more info, check out our Instagram:
-![Insta](/content/pictures/AIAS_insta.png)
+![Insta](./content/pictures/AIAS_insta.png)
