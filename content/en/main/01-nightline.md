@@ -20,3 +20,5 @@ You can register for one of the info sessions [at this link](https://docs.google
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSde0kzVSRFiPJNEqgrsnKssrP_FhsqPvvN6TLJxuqPUH_4ggg/viewform">Registration</a>
   <a href="https://nightline-konstanz.de/mitmachen.html">Information</a>
 </div>
+
+![Nightline](/content/pictures/Nightline.png)
