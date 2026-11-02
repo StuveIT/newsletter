@@ -12,7 +12,7 @@ wir hoffen, ihr hattet einen guten Start ins neue Semester.
   Deshalb suchen wir kreative Köpfe und Hände unter euch. Mitmachen können alle Studierenden, Künstler:innen, Kollektive und Initiativen. Bis zu 100 € Materialkosten werden erstattet.
   Wir haben die Einreichungsfrist verlängert. Das ist eure Chance, euch und eure Kunst an einer der Wände zu verewigen!
 
-  ❗️Einreichungsfrist: 30.11.2026
+  ❗️**Einreichungsfrist: 30.11.2026**
 
   Du hast Interesse, mitzumachen? Mehr Infos findest du [auf unserer Webseite](https://www.stuve-uni-kn.de/ausschreibung-bunte-arche/).
   <div class="flex-grid slot">
@@ -20,7 +20,7 @@ wir hoffen, ihr hattet einen guten Start ins neue Semester.
   </div>
 
 - ☕ **StuVe-Café**  
-  Jeden Donnerstag Nachmittag findet in H301a das StuVe-Café statt.
+  **Jeden Donnerstag Nachmittag findet in H301a das StuVe-Café statt.**
 
   Kommt für kostenlosen Kaffee, Tee - auf Wunsch mit Hafermilch und Eiswürfeln - und Kekse (auch vegan) gerne zwischen 12:30 und 14:30 Uhr zu uns ins StuVe Büro in H301a! 
 
