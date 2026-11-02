@@ -20,3 +20,5 @@ Du kannst dich [unter diesem Link](https://docs.google.com/forms/d/e/1FAIpQLSde0
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSde0kzVSRFiPJNEqgrsnKssrP_FhsqPvvN6TLJxuqPUH_4ggg/viewform">Anmeldung</a>
   <a href="https://nightline-konstanz.de/mitmachen.html">Infos</a>
 </div>
+
+![Nightline](/content/pictures/Nightline.png)
